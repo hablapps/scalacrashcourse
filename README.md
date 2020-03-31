@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hablapps/scalacrashcourse/master)
+
 # Crash course in Scala
 
 This repository contains the notebooks for the crash course in Scala offered by Habla Computing in collaboration with teachers of the University Rey Juan Carlos. The course was offered online through the [Madrid Scala Meetup group](https://www.meetup.com/Scala-Programming-Madrid). You can find links to recordings of the different sessions below.
